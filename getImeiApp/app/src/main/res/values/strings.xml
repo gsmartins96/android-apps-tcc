@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">getImei</string>
+    <string name="telephont_manager_api">Telephont Manager API</string>
+    <string name="button1">Button</string>
+    <string name="imei">IMEI:</string>
+    <string name="api_granted">API Granted</string>
+    <string name="get_imei">GET IMEI</string>
+    <string name="get_type">GET TYPE</string>
+    <string name="type">TYPE</string>
+    <string name="button">Button</string>
+    <string name="reset">RESET</string>
+    <string name="grant_permission">GRANT PERMISSION</string>
+    <string name="telephonymanager_api">TelephonyManager API</string>
+    <string name="getimei_method">getImei() Method</string>
+</resources>
